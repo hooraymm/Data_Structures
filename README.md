@@ -6,6 +6,7 @@
 List, Stack, Queue, Tree
 
 Tree에 대해서 깊게 배움
+
 -Breadth-First Traversal, Backtracking, Depth-First Traversals: Tree 구조에서 읽는 순서 및 알고리즘
 -Binary Tree
 -Binary Search Tree
