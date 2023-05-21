@@ -1,6 +1,14 @@
 # Data_Structures
 2022년 2학기에 수강했던 자료구조 과목
 
+## In this repo
+Projects 
+>1. Queue 제작 및 Stack을 이용한 계산기
+>2. AVL Tree
+>3. RB Tree
+>4. Fibonacci Heap
+>5. Dijkstra Algorithm
+
 ## 배운 개념들:
 
 1. 시간 복잡도 및 시간 복잡도 계산 방법(Landau symbols)
